@@ -1,0 +1,43 @@
+h1 {
+    margin: 0px;
+    border: 5px;
+    padding: 25px;
+    background-color: #004175;
+    border-color:#89DEEF;
+    color: white
+}
+h2 {
+    margin: 15px;
+    margin-left: 15px;
+    font-family: "open sans";
+    border-top: 25px;
+    padding: 15;
+    border-color:#89DEEF;
+    color: black
+
+}
+
+h3 {
+    margin: 15px;
+    margin-left: 15px;
+    font-family: "oswald";
+    border-top: 25px;
+    padding: 0;
+    border-color:#89DEEF;
+    color: black 
+}
+
+p {
+    margin: 15px;
+    margin-left: 15px;
+    font-family: "open sans";
+    border-top: 25px;
+    padding: 0;
+    border-color:#89DEEF;
+    color: black 
+}
+
+img {
+    margin: 5px;
+    margin-left: 15px;
+}
